@@ -1,3 +1,5 @@
+baseURL: "https://ariarst/rastegar.github.io/" 
+title: Aria Rastegar
 paginate: 20
 theme: PaperMod
 
