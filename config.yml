@@ -52,12 +52,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I research why economic slack—especially unemployment—exists, why it fluctuates over the business cycle, and how macroeconomic policies should respond to such fluctuations."
-          imageUrl: "/picture.jpeg"
+          title: Aria Rastegar
+          subtitle: "I am a PhD researcher of Linguistics at the FAU Erlangen-Nuremberg."
+          imageUrl: "static/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
+          imageTitle: Aria Rastegar
           buttons:
             - name: Papers
               url: /papers/
@@ -78,7 +78,7 @@ params:
         - name: CV
           url: /cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:aria.rastegar@fau.de
         - name: Location
           url: /location/
         - name: Office Hours
